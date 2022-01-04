@@ -69,7 +69,7 @@ Grades will be computed based on the following factors:
 | 17 | 3/3 | [First-order logic: inference](https://www.dropbox.com/s/ihnmk8u1mvjqr4o/Lecture10.pdf?dl=0) | Chapter 9 |  |
 | 18 | 3/8 | [Reasoning under uncertainty](https://www.dropbox.com/s/cg7fuk1jhrnu2xs/Lecture11.pdf?dl=0) | Chapter 11 | HW6 Out  |
 | 19 | 3/11 | [Bayesian Networks](https://www.dropbox.com/s/g1wc0vmyyt0o9zc/Lecture12.pdf?dl=0) | Chapter 13 | |
-|  | 3/15 | Final Exam | |  |
+|  | 3/16 | 8:00AM-11:00AM Final Exam | |  |
 |  | 3/18 | | |  HW6 Due |
 
 ## Academic Integrity Policy
