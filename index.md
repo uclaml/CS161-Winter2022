@@ -49,7 +49,7 @@ Grades will be computed based on the following factors:
 
 | #  | Date  | Topics  |  Reading | Homework  |
 |---|---|---|---|---|
-| 1  | 1/4  |  [About Course](https://www.dropbox.com/s/6v49m2i9g6f18h3/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/o9wft7ybkmhqgxr/Lecture1.pdf?dl=0) |  Chapter 1,2 |   |
+| 1  | 1/4  |  [About Course](https://www.dropbox.com/s/dljrz37wz8lqhrl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/71rgvyrfp9dgb7a/Lecture1.pdf?dl=0) |  Chapter 1,2 |   |
 | 2 | 1/6 | [LISP](https://www.dropbox.com/s/9rqb830n8gr84tt/Lecture2.pdf?dl=0) | | |
 | 3 | 1/11 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | |
 | 4 | 1/13 | [Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | HW1 Out |
