@@ -51,7 +51,7 @@ Grades will be computed based on the following factors:
 |---|---|---|---|---|
 | 1  | 1/4  |  [About Course](https://www.dropbox.com/s/dljrz37wz8lqhrl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/71rgvyrfp9dgb7a/Lecture1.pdf?dl=0) |  Chapter 1,2 |   |
 | 2 | 1/6 | [LISP](https://www.dropbox.com/s/abit3emfhgyceww/Lecture2.pdf?dl=0) | | |
-| 3 | 1/11 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | |
+| 3 | 1/11 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/aocaomv9c52hex7/Lecture3.pdf?dl=0) | Chapter 3 | |
 | 4 | 1/13 | [Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | HW1 Out |
 | 5 | 1/18 | [Informed search strategies](https://www.dropbox.com/s/dvqksgu4ozo2pcc/lecture4.pdf?dl=0)| Chapter 3 |  |
 | 6 | 1/20 | [Local Search Algorithms](https://www.dropbox.com/s/irybdjzo0tg29ac/lecture5.pdf?dl=0) | Chapter 4 | HW1 Due, HW2 Out|
