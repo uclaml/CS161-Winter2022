@@ -53,7 +53,7 @@ Grades will be computed based on the following factors:
 | 2 | 1/6 | [LISP](https://www.dropbox.com/s/abit3emfhgyceww/Lecture2.pdf?dl=0) | | |
 | 3 | 1/11 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/aocaomv9c52hex7/Lecture3.pdf?dl=0) | Chapter 3 | |
 | 4 | 1/13 | [Uninformed search strategies](https://www.dropbox.com/s/lwwxo28aee5bshv/Lecture3.pdf?dl=0) | Chapter 3 | HW1 Out |
-| 5 | 1/18 | [Informed search strategies](https://www.dropbox.com/s/dvqksgu4ozo2pcc/lecture4.pdf?dl=0)| Chapter 3 |  |
+| 5 | 1/18 | [Informed search strategies](https://www.dropbox.com/s/uzq91zitqyvgjwz/Lecture4.pdf?dl=0)| Chapter 3 |  |
 | 6 | 1/20 | [Local Search Algorithms](https://www.dropbox.com/s/irybdjzo0tg29ac/lecture5.pdf?dl=0) | Chapter 4 | HW1 Due, HW2 Out|
 | 7 | 1/25 | [Local Search Algorithms](https://www.dropbox.com/s/irybdjzo0tg29ac/lecture5.pdf?dl=0) | Chapter 4 | |
 | 8 | 1/27 | [Constraint satisfaction](https://www.dropbox.com/s/kl3ynj8fnqe0v19/lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out|
