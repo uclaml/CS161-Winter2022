@@ -57,7 +57,7 @@ Grades will be computed based on the following factors:
 | 6 | 1/20 | [Local Search Algorithms](https://www.dropbox.com/s/wjxsyzv4399vb6m/Lecture5.pdf?dl=0) | Chapter 4 | HW1 Due, HW2 Out|
 | 7 | 1/25 | [Constraint satisfaction](https://www.dropbox.com/s/o9xt88rcn5hkphm/Lecture6.pdf?dl=0) | Chapter 6 | |
 | 8 | 1/27 | [Constraint satisfaction](https://www.dropbox.com/s/o9xt88rcn5hkphm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out|
-| 9 | 2/1 | [Game playing](https://www.dropbox.com/s/zzke2lmgq8tfkt0/Lecture7.pdf?dl=0) | Chapter 5 | |
+| 9 | 2/1 | [Constraint satisfaction](https://www.dropbox.com/s/zzke2lmgq8tfkt0/Lecture7.pdf?dl=0) | Chapter 6 | |
 | 10 | 2/3 | [Game playing](https://www.dropbox.com/s/zzke2lmgq8tfkt0/Lecture7.pdf?dl=0) | Chapter 5 |  |
 | 11 | 2/8 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
 | 12 | 2/10 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 5 | |
