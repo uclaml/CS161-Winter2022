@@ -59,8 +59,8 @@ Grades will be computed based on the following factors:
 | 8 | 1/27 | [Constraint satisfaction](https://www.dropbox.com/s/o9xt88rcn5hkphm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out|
 | 9 | 2/1 | [Constraint satisfaction](https://www.dropbox.com/s/zzke2lmgq8tfkt0/Lecture7.pdf?dl=0) | Chapter 6 | |
 | 10 | 2/3 | [Game playing](https://www.dropbox.com/s/zzke2lmgq8tfkt0/Lecture7.pdf?dl=0) | Chapter 5 |  |
-| 11 | 2/8 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
-| 12 | 2/10 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 5 | |
+| 11 | 2/8 | [Game playing](https://www.dropbox.com/s/iwm7wz5gf47s5hx/Lecture7.pdf?dl=0) | Chapter 5 | Hw4 Out |
+| 12 | 2/10 | [Propositional logic](https://www.dropbox.com/s/7idbzh6j120hxpd/Lecture8.pdf?dl=0) | Chapter 7 | HW3 Due (extended) |
 |  | 2/15 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
 | 13 | 2/17 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 | HW4 Due (extended), HW5 Out |
 | 14 | 2/22 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 |  |
