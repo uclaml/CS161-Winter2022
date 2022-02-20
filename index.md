@@ -64,13 +64,13 @@ Grades will be computed based on the following factors:
 |  | 2/15 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
 | 13 | 2/17 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 | HW4 Due (extended), HW5 Out |
 | 14 | 2/22 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 |  |
-| 15 | 2/24 | [Propositional logic](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 7 |  |
-| 16 | 3/1 | [First-order logic: representation](https://www.dropbox.com/s/7g5o5vfof4jd1e4/Lecture9.pdf?dl=0) | Chapter 8 | HW5 Due|
+| 15 | 2/24 | [First-order logic: representation](https://www.dropbox.com/s/yy88ndocrit0cgg/Lecture8.pdf?dl=0) | Chapter 8 |  |
+| 16 | 3/1 | [First-order logic: representation](https://www.dropbox.com/s/7g5o5vfof4jd1e4/Lecture9.pdf?dl=0) | Chapter 8 | HW5 Due, HW6 Out|
 | 17 | 3/3 | [First-order logic: inference](https://www.dropbox.com/s/ihnmk8u1mvjqr4o/Lecture10.pdf?dl=0) | Chapter 9 |  |
-| 18 | 3/8 | [Reasoning under uncertainty](https://www.dropbox.com/s/cg7fuk1jhrnu2xs/Lecture11.pdf?dl=0) | Chapter 11 | HW6 Out  |
-| 19 | 3/11 | [Bayesian Networks](https://www.dropbox.com/s/g1wc0vmyyt0o9zc/Lecture12.pdf?dl=0) | Chapter 13 | |
+| 18 | 3/8 | [Reasoning under uncertainty](https://www.dropbox.com/s/cg7fuk1jhrnu2xs/Lecture11.pdf?dl=0) | Chapter 11 |   |
+| 19 | 3/11 | [Bayesian Networks](https://www.dropbox.com/s/g1wc0vmyyt0o9zc/Lecture12.pdf?dl=0) | Chapter 13 | HW6 Due |
 |  | 3/16 | 8:00AM-11:00AM Final Exam | |  |
-|  | 3/18 | | |  HW6 Due |
+|  | 3/18 | | |   |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
