@@ -67,7 +67,7 @@ Grades will be computed based on the following factors:
 | 15 | 2/24 | [First-order logic: representation](https://www.dropbox.com/s/nvrtwczkrzl0hdg/Lecture9.pdf?dl=0) | Chapter 8 |  |
 | 16 | 3/1 | [First-order logic: representation](https://www.dropbox.com/s/7g5o5vfof4jd1e4/Lecture9.pdf?dl=0) | Chapter 8 | HW5 Due (extended), HW6 Out|
 | 17 | 3/3 | [First-order logic: inference](https://www.dropbox.com/s/h8cw1phq6ev7hu4/Lecture10.pdf?dl=0) | Chapter 9 |  |
-| 18 | 3/8 | [Reasoning under uncertainty](https://www.dropbox.com/s/cg7fuk1jhrnu2xs/Lecture11.pdf?dl=0) | Chapter 11 |   |
+| 18 | 3/8 | [Reasoning under uncertainty](https://www.dropbox.com/s/zuw4xceha35aap1/Lecture11.pdf?dl=0) | Chapter 11 |   |
 | 19 | 3/11 | [Bayesian Networks](https://www.dropbox.com/s/g1wc0vmyyt0o9zc/Lecture12.pdf?dl=0) | Chapter 13 | HW6 Due |
 |  | 3/16 | 8:00AM-11:00AM Final Exam | |  |
 |  | 3/18 | | |   |
